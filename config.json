@@ -1,0 +1,7 @@
+{
+  "port": 8000,
+  "rate_limiting": {
+    "requests": 100,
+    "interval": 3600
+  }
+}
